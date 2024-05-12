@@ -2,7 +2,7 @@ Forecasting commodity prices is a challenging task due to the inherent volatilit
 
 *** To understand the features and to look at the project images open report file ***
 
-This application addresses these challenges by
+This application addresses these challenges by:
 • Leveraging the power of Linear regression model and Prophet: Both models have proven effective in capturing complex non-linear relationships within data, making them suitable for gold price forecasting.
 • Providing interactive data visualization: Streamlit allows for dynamic exploration of historical gold price data through interactive charts and graphs, enabling users to identify trends and patterns.
 • Facilitating model comparison: The application allows users to select and compare the performance of Linear regression model and Prophet models, providing valuable insights into their strengths and weaknesses in gold price forecasting.
